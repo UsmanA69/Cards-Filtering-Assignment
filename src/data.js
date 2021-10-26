@@ -227,7 +227,7 @@ const Data =[
         description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit."
       },
       {
-        id: =29,
+        id: 29,
         name: "Chicken Shashlik",
         image: "images/dinner8.jpg",
         category: "dinner",
