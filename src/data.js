@@ -227,7 +227,7 @@ const Data =[
         description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit."
       },
       {
-        id: 29,
+        id: =29,
         name: "Chicken Shashlik",
         image: "images/dinner8.jpg",
         category: "dinner",
@@ -235,7 +235,7 @@ const Data =[
         description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit."
       },
       {
-        id: 20,
+        id: 30,
         name: "Mexican Chicken Steak",
         image: "images/dinner9.jpg",
         category: "dinner",
@@ -243,7 +243,7 @@ const Data =[
         description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit."
       },
       {
-        id: 21,
+        id: 31,
         name: "Pepper Steak",
         image: "images/dinner10.jpg",
         category: "dinner",
